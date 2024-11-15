@@ -85,6 +85,9 @@ Bugs and Issues:
 Important Links:
 ----------------
 ClassicWB - [Classic Amiga Workbench](http://classicwb.abime.net/)
+- Workbench disc/image which contains the GUI System ﻿of the Amiga Computer.
+- The Kickstart is only the OS data that is stored in the Rom of a Amiga Computer.
+
 
 
 Greets and Thanks:
