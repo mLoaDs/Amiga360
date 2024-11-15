@@ -91,6 +91,8 @@ Greets and Thanks:
 ------------------
 Gnostic, coz, cancerous, Razkar, Artik and Logic-Sunrise, idc and all Amiga fans worldwide!
 
+![Amigagui](https://github.com/user-attachments/assets/fe110071-a102-4ab9-83ff-bef1dc949b64)
+
 
 PUAE 2.3.3 beta series
 ---------------------------------------------------
